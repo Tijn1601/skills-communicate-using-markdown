@@ -9,3 +9,7 @@ Tested out headers and their different sizes
 int number = 15;
 std::string text = "This is very interesting";
 ```
+
+- [x] Figure out how to include images
+- [ ] Finish assignment
+- [ ] Check other assignments
